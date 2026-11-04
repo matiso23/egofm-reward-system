@@ -35,4 +35,4 @@ On the account page, users can view and edit their personal information, such as
 
 ## Authors
 
-Developed by master students Matthias Gerhard & Timur Sönmez at OTH Regensburg.
+Developed by master students Matthias Gerhard & Max Timur Sönmez at OTH Regensburg.
